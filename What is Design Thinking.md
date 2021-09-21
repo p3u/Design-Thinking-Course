@@ -47,7 +47,7 @@ After finding solutions based on facts you start trying to nulify them
 _I try not to think out of the box anymore, but on its edge, its corner, its flap, and under its bar code._ Clint Runge_
 * My interpratation: Dont go to far away, but make sure to check and challange the details and what defines the essense of the box *
 
-## 5 Phases of Design Thinking?
+## 5 Phases of Design Thinking
 
 
 The phases can be done in parallel, dont need to be cronological (can even reitarate)
