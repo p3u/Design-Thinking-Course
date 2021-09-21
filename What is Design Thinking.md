@@ -13,8 +13,7 @@
 
 Design thinking involves ambiguous, and inherently subjective, concepts such as emotions, needs, motivations and drivers of behavior. This contrasts to solely scientific approaches—quantitative research, for example—where there’s more of a distance between the processes of understanding and the testing of users’ needs and emotions.
 
-## Why DT
-** Design Thinking is for Everybody **
+## Why Design Thinking 
 -**Attempt to develop new ways of thinking**
 -**Have the intention to improve products, services and processes.**
 -**Ask significant questions and challenge assumptions**
