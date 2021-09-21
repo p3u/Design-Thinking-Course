@@ -49,11 +49,12 @@ _I try not to think out of the box anymore, but on its edge, its corner, its fla
 * My interpratation: Dont go to far away, but make sure to check and challange the details and what defines the essense of the box *
 
 ## 5 Phases of Design Thinking?
-![[Pasted image 20210921172724.png]]
+![image](https://user-images.githubusercontent.com/8852693/134261689-c431dd7e-e408-484f-9c3b-df71288b3188.png)
+
 
 The phases can be done in parallel, dont need to be cronological (can even reitarate)
 
 
 ## Allegory
-![[Pasted image 20210921174412.png]]
+![image](https://user-images.githubusercontent.com/8852693/134261704-2f098d40-7bf6-4d91-8094-b123cdb3e30a.png)
  In particular, experts and specialists rely on their solid thought patterns, and it can be very challenging and difficult for experts to start questioning their knowledge.
