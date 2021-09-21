@@ -14,9 +14,9 @@
 Design thinking involves ambiguous, and inherently subjective, concepts such as emotions, needs, motivations and drivers of behavior. This contrasts to solely scientific approaches—quantitative research, for example—where there’s more of a distance between the processes of understanding and the testing of users’ needs and emotions.
 
 ## Why Design Thinking 
--**Attempt to develop new ways of thinking**
--**Have the intention to improve products, services and processes.**
--**Ask significant questions and challenge assumptions**
+- Attempt to develop new ways of thinking
+- Have the intention to improve products, services and processes
+- Ask significant questions and challenge assumptions
 
 _Designers resist the temptation to jump immediately to a solution to the stated problem. Instead, they first spend time determining what the basic, fundamental (root) issue is that needs to be addressed_
 
